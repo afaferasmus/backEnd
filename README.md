@@ -94,12 +94,10 @@ fakeNews
 
    Copy the `.env.example` file to `.env` and edit the variables according to your environment.
 
-![Configenv ](images-config/database.png)
 
 ```bash
 php artisan key:generate
  ```
-![Configenv ](images-config/appkey_generate.png)
 
 5. **Database and user creation**
 
